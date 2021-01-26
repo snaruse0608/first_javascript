@@ -43,5 +43,11 @@ $ eslint --init
 2:9  error  Strings must use singlequote  quotes
 ```
 
+### 修正方法
+エラーを確認して手動で修正するか、下記のようにコマンドで修正します。
+```
+$ eslint --fix code/00_test/script.js
+```
+
 ## 各リンク
 [管理方法](memo/management.md)

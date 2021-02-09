@@ -50,4 +50,5 @@ $ eslint --fix code/00_test/script.js
 ```
 
 ## 各リンク
-[管理方法](memo/management.md)
+[管理方法](memo/management.md)  
+[3章 変数、定数、リテラル、データ型](memo/03_data.md)
